@@ -1,6 +1,6 @@
-import { Jugador } from "./Jugador";
-import { Dado } from "./Dado";
-import { Jugada } from "./Jugada";
+import { Jugador } from "./Jugador.js";
+import { Dado } from "./Dado.js";
+import { Jugada } from "./Jugada.js";
 export class JuegoDados {
     constructor(nombre1, nombre2, cantidadJugadas) {
         this.cantidadJugadas = cantidadJugadas;

@@ -1,4 +1,4 @@
-import { JuegoDados } from "./JuegoDados";
+import { JuegoDados } from "./JuegoDados.js";
 /**
  * Punto de entrada del juego de dados. Recibe los nombres de los jugadores.
  */
